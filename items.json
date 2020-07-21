@@ -8,8 +8,8 @@
     "init_loc": "DUNGEON"
   },
   "ROCK": {
-    "name": "rock",
-    "words": ["ROCK"],
+    "name": "rag doll",
+    "words": ["DOLL"],
     "takeable?": true,
     "init_loc": "CASTLE_GATE"
   },
