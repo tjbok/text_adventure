@@ -7,7 +7,7 @@
     "takeable?": true,
     "init_loc": "DUNGEON"
   },
-  "ROCK": {
+  "DOLL": {
     "name": "rag doll",
     "words": ["DOLL"],
     "takeable?": true,
